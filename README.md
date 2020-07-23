@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi I'm Sudharsan 👋
+I'm a SharePoint Consultant who is passionate about working in different technologies, helping the community members and other business users, guiding the people to focus on their journey in technology. Some technology I am proud of working with includes **SharePoint (2007, 2010, 2013, 2016, 2019), M365, SharePoint Online, MS Teams, Power Automate, PowerApps, Azure Functions & other Azure Services**. My interest in the Power Community lead me to the **Super User** :muscle: role.
 
+## Find me around the web :earth_asia:
+- You can tweet me [@sudharsank](https://twitter.com/sudharsank) :bird:
 <!--
 **sudharsank/sudharsank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
