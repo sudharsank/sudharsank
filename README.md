@@ -3,7 +3,7 @@ I'm a SharePoint Consultant who is passionate about working in different technol
 
 ## Find me around the web :earth_asia:
 - You can tweet me [@sudharsank](https://twitter.com/sudharsank) :bird:
-- You can view my articles at [KnowledgeShare](https://knowledgeshare.com) :page_with_curl:
+- You can view my articles at [KnowledgeShare](https://spknowledge.com/) :page_with_curl:
 - You can connect me via [LinkedIn](https://www.linkedin.com/in/sudharsan-k-75b2bbb/) :clinking_glasses:
 <!--
 **sudharsank/sudharsank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
