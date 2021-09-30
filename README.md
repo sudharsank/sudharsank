@@ -5,6 +5,7 @@ I'm a **Microsoft MVP**, SharePoint Consultant who is passionate about working i
 - You can tweet me [@sudharsank](https://twitter.com/sudharsank) :bird:
 - You can view my articles at [KnowledgeShare](https://spknowledge.com/) :page_with_curl:
 - You can connect me via [LinkedIn](https://www.linkedin.com/in/sudharsan-kesavanarayanan-75b2bbb/) :clinking_glasses:
+- You can also subscribe to my youtube channel [Knowledge Share](https://www.youtube.com/c/sudharsankgoogle/) :tv:
 
 - 🌱 I’m currently learning **Power Platform**
 
